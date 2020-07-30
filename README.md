@@ -1,5 +1,4 @@
 Instructions to reproduce the experiments in Predicting Rice Phenotypes with Meta and Multi-target Learning. 
-Please address all queries to: oghenejokpeme.orhobor *at* manchester *dot* ac *dot* uk
 
 Steps.
 1. First download the genotype (x) and phenotype (ys) files from http://dx.doi.org/10.17632/wxm9p2fhjt.1.
